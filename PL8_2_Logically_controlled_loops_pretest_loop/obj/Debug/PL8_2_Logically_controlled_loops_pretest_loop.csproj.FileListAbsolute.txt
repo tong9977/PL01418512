@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\bin\Debug\PL8_2_Logically_controlled_loops_pretest_loop.exe.config
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\bin\Debug\PL8_2_Logically_controlled_loops_pretest_loop.exe
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\bin\Debug\PL8_2_Logically_controlled_loops_pretest_loop.pdb
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\obj\Debug\PL8_2_Logically_controlled_loops_pretest_loop.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\obj\Debug\PL8_2_Logically_controlled_loops_pretest_loop.exe
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\obj\Debug\PL8_2_Logically_controlled_loops_pretest_loop.pdb

@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\018_nested_classs\bin\Debug\018_nested_classs.exe.config
+C:\Users\big\Dropbox\Woks\Work\018_nested_classs\bin\Debug\018_nested_classs.exe
+C:\Users\big\Dropbox\Woks\Work\018_nested_classs\bin\Debug\018_nested_classs.pdb
+C:\Users\big\Dropbox\Woks\Work\018_nested_classs\obj\Debug\018_nested_classs.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\018_nested_classs\obj\Debug\018_nested_classs.exe
+C:\Users\big\Dropbox\Woks\Work\018_nested_classs\obj\Debug\018_nested_classs.pdb

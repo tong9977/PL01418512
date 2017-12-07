@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\026_Interritance_base_override\bin\Debug\PL12_3_Inheritance_method_Base_Class.exe.config
+C:\Users\big\Dropbox\Woks\Work\026_Interritance_base_override\bin\Debug\PL12_3_Inheritance_method_Base_Class.exe
+C:\Users\big\Dropbox\Woks\Work\026_Interritance_base_override\bin\Debug\PL12_3_Inheritance_method_Base_Class.pdb
+C:\Users\big\Dropbox\Woks\Work\026_Interritance_base_override\obj\Debug\PL12_3_Inheritance_method_Base_Class.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\026_Interritance_base_override\obj\Debug\PL12_3_Inheritance_method_Base_Class.exe
+C:\Users\big\Dropbox\Woks\Work\026_Interritance_base_override\obj\Debug\PL12_3_Inheritance_method_Base_Class.pdb

@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\bin\Debug\019_for_loop.exe.config
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\bin\Debug\019_for_loop.exe
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\bin\Debug\019_for_loop.pdb
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\obj\Debug\019_for_loop.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\obj\Debug\019_for_loop.exe
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\obj\Debug\019_for_loop.pdb

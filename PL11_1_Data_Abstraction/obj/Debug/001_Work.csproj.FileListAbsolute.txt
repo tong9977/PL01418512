@@ -1,0 +1,7 @@
+C:\Users\big\Dropbox\Woks\Work\Work\bin\Debug\Work.exe.config
+C:\Users\big\Dropbox\Woks\Work\Work\bin\Debug\Work.exe
+C:\Users\big\Dropbox\Woks\Work\Work\bin\Debug\Work.pdb
+C:\Users\big\Dropbox\Woks\Work\Work\obj\Debug\001_Work.csprojResolveAssemblyReference.cache
+C:\Users\big\Dropbox\Woks\Work\Work\obj\Debug\001_Work.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\Work\obj\Debug\Work.exe
+C:\Users\big\Dropbox\Woks\Work\Work\obj\Debug\Work.pdb

@@ -1,0 +1,7 @@
+C:\Users\big\Dropbox\Woks\Work\Work\bin\Debug\PL11_1_Data_Abstraction.exe.config
+C:\Users\big\Dropbox\Woks\Work\Work\bin\Debug\PL11_1_Data_Abstraction.exe
+C:\Users\big\Dropbox\Woks\Work\Work\bin\Debug\PL11_1_Data_Abstraction.pdb
+C:\Users\big\Dropbox\Woks\Work\Work\obj\Debug\PL11_1_Data_Abstraction.csprojResolveAssemblyReference.cache
+C:\Users\big\Dropbox\Woks\Work\Work\obj\Debug\PL11_1_Data_Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\Work\obj\Debug\PL11_1_Data_Abstraction.exe
+C:\Users\big\Dropbox\Woks\Work\Work\obj\Debug\PL11_1_Data_Abstraction.pdb

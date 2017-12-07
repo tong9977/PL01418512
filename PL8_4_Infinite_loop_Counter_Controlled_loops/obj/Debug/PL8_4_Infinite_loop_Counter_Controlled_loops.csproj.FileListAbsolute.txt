@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\bin\Debug\PL8_4_Infinite_loop_Counter_Controlled_loops.exe.config
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\bin\Debug\PL8_4_Infinite_loop_Counter_Controlled_loops.exe
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\bin\Debug\PL8_4_Infinite_loop_Counter_Controlled_loops.pdb
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\obj\Debug\PL8_4_Infinite_loop_Counter_Controlled_loops.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\obj\Debug\PL8_4_Infinite_loop_Counter_Controlled_loops.exe
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\obj\Debug\PL8_4_Infinite_loop_Counter_Controlled_loops.pdb

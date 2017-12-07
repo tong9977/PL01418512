@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\bin\Debug\026_Inherritance_overline.exe.config
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\bin\Debug\026_Inherritance_overline.exe
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\bin\Debug\026_Inherritance_overline.pdb
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\obj\Debug\026_Inherritance_override.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\obj\Debug\026_Inherritance_overline.exe
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\obj\Debug\026_Inherritance_overline.pdb

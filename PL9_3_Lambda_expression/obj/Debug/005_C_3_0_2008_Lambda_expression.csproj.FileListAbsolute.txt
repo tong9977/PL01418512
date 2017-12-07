@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\005_C_3_0_2008_Lambda_expression\bin\Debug\005_C_3_0_2008_Lambda_expression.exe.config
+C:\Users\big\Dropbox\Woks\Work\005_C_3_0_2008_Lambda_expression\bin\Debug\005_C_3_0_2008_Lambda_expression.exe
+C:\Users\big\Dropbox\Woks\Work\005_C_3_0_2008_Lambda_expression\bin\Debug\005_C_3_0_2008_Lambda_expression.pdb
+C:\Users\big\Dropbox\Woks\Work\005_C_3_0_2008_Lambda_expression\obj\Debug\005_C_3_0_2008_Lambda_expression.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\005_C_3_0_2008_Lambda_expression\obj\Debug\005_C_3_0_2008_Lambda_expression.exe
+C:\Users\big\Dropbox\Woks\Work\005_C_3_0_2008_Lambda_expression\obj\Debug\005_C_3_0_2008_Lambda_expression.pdb

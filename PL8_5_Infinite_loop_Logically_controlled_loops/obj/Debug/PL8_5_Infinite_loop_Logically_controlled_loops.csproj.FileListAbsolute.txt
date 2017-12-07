@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\023_Infinit_loop_while\bin\Debug\PL8_5_Infinite_loop_Logically_controlled_loops.exe.config
+C:\Users\big\Dropbox\Woks\Work\023_Infinit_loop_while\bin\Debug\PL8_5_Infinite_loop_Logically_controlled_loops.exe
+C:\Users\big\Dropbox\Woks\Work\023_Infinit_loop_while\bin\Debug\PL8_5_Infinite_loop_Logically_controlled_loops.pdb
+C:\Users\big\Dropbox\Woks\Work\023_Infinit_loop_while\obj\Debug\PL8_5_Infinite_loop_Logically_controlled_loops.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\023_Infinit_loop_while\obj\Debug\PL8_5_Infinite_loop_Logically_controlled_loops.exe
+C:\Users\big\Dropbox\Woks\Work\023_Infinit_loop_while\obj\Debug\PL8_5_Infinite_loop_Logically_controlled_loops.pdb

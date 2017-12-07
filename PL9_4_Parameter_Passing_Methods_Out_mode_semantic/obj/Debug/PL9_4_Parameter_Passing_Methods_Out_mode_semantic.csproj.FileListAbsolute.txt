@@ -1,0 +1,7 @@
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\bin\Debug\PL9_4_Parameter_Passing_Methods_Out_mode_semantic.exe.config
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\bin\Debug\PL9_4_Parameter_Passing_Methods_Out_mode_semantic.exe
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\bin\Debug\PL9_4_Parameter_Passing_Methods_Out_mode_semantic.pdb
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\obj\Debug\PL9_4_Parameter_Passing_Methods_Out_mode_semantic.csprojResolveAssemblyReference.cache
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\obj\Debug\PL9_4_Parameter_Passing_Methods_Out_mode_semantic.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\obj\Debug\PL9_4_Parameter_Passing_Methods_Out_mode_semantic.exe
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\obj\Debug\PL9_4_Parameter_Passing_Methods_Out_mode_semantic.pdb

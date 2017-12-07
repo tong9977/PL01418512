@@ -1,0 +1,7 @@
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005_Generics\bin\Debug\Work_C_2_0_2005_Generics.exe.config
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005_Generics\bin\Debug\Work_C_2_0_2005_Generics.exe
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005_Generics\bin\Debug\Work_C_2_0_2005_Generics.pdb
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005_Generics\obj\Debug\003_Work_C_2_0_2005_Generics.csprojResolveAssemblyReference.cache
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005_Generics\obj\Debug\003_Work_C_2_0_2005_Generics.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005_Generics\obj\Debug\Work_C_2_0_2005_Generics.exe
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005_Generics\obj\Debug\Work_C_2_0_2005_Generics.pdb

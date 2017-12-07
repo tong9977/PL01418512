@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\bin\Debug\017_object_slicing.exe.config
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\bin\Debug\017_object_slicing.exe
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\bin\Debug\017_object_slicing.pdb
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\obj\Debug\017_object_slicing.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\obj\Debug\017_object_slicing.exe
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\obj\Debug\017_object_slicing.pdb

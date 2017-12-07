@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\28_NameLengthLimited\bin\Debug\28_NameLengthLimited.exe.config
+C:\Users\big\Dropbox\Woks\Work\28_NameLengthLimited\bin\Debug\28_NameLengthLimited.exe
+C:\Users\big\Dropbox\Woks\Work\28_NameLengthLimited\bin\Debug\28_NameLengthLimited.pdb
+C:\Users\big\Dropbox\Woks\Work\28_NameLengthLimited\obj\Debug\5_2_Variable_Naming.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\28_NameLengthLimited\obj\Debug\28_NameLengthLimited.exe
+C:\Users\big\Dropbox\Woks\Work\28_NameLengthLimited\obj\Debug\28_NameLengthLimited.pdb

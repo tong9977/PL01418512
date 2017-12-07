@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\008_C_6_0_2014_Interpolated_Strings\bin\Debug\PL1_1Interpolated_Strings_Readability.exe.config
+C:\Users\big\Dropbox\Woks\Work\008_C_6_0_2014_Interpolated_Strings\bin\Debug\PL1_1Interpolated_Strings_Readability.exe
+C:\Users\big\Dropbox\Woks\Work\008_C_6_0_2014_Interpolated_Strings\bin\Debug\PL1_1Interpolated_Strings_Readability.pdb
+C:\Users\big\Dropbox\Woks\Work\008_C_6_0_2014_Interpolated_Strings\obj\Debug\PL1_1Interpolated_Strings_Readability.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\008_C_6_0_2014_Interpolated_Strings\obj\Debug\PL1_1Interpolated_Strings_Readability.exe
+C:\Users\big\Dropbox\Woks\Work\008_C_6_0_2014_Interpolated_Strings\obj\Debug\PL1_1Interpolated_Strings_Readability.pdb

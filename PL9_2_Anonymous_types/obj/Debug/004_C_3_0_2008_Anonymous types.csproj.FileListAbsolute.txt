@@ -1,0 +1,7 @@
+C:\Users\big\Dropbox\Woks\Work\C_3_0_2008_Anonymous types\bin\Debug\C_3_0_2008_Anonymous types.exe.config
+C:\Users\big\Dropbox\Woks\Work\C_3_0_2008_Anonymous types\bin\Debug\C_3_0_2008_Anonymous types.exe
+C:\Users\big\Dropbox\Woks\Work\C_3_0_2008_Anonymous types\bin\Debug\C_3_0_2008_Anonymous types.pdb
+C:\Users\big\Dropbox\Woks\Work\C_3_0_2008_Anonymous types\obj\Debug\004_C_3_0_2008_Anonymous types.csprojResolveAssemblyReference.cache
+C:\Users\big\Dropbox\Woks\Work\C_3_0_2008_Anonymous types\obj\Debug\004_C_3_0_2008_Anonymous types.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\C_3_0_2008_Anonymous types\obj\Debug\C_3_0_2008_Anonymous types.exe
+C:\Users\big\Dropbox\Woks\Work\C_3_0_2008_Anonymous types\obj\Debug\C_3_0_2008_Anonymous types.pdb

@@ -1,0 +1,7 @@
+C:\Users\big\Dropbox\Woks\Work\015_cast\bin\Debug\PL7_3_Explicit_type_conversion.exe.config
+C:\Users\big\Dropbox\Woks\Work\015_cast\bin\Debug\PL7_3_Explicit_type_conversion.exe
+C:\Users\big\Dropbox\Woks\Work\015_cast\bin\Debug\PL7_3_Explicit_type_conversion.pdb
+C:\Users\big\Dropbox\Woks\Work\015_cast\obj\Debug\PL7_3_Explicit_type_conversion.csprojResolveAssemblyReference.cache
+C:\Users\big\Dropbox\Woks\Work\015_cast\obj\Debug\PL7_3_Explicit_type_conversion.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\015_cast\obj\Debug\PL7_3_Explicit_type_conversion.exe
+C:\Users\big\Dropbox\Woks\Work\015_cast\obj\Debug\PL7_3_Explicit_type_conversion.pdb

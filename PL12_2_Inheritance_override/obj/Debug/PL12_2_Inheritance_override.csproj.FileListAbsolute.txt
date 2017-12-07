@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\bin\Debug\PL12_2_Inheritance_override.exe.config
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\bin\Debug\PL12_2_Inheritance_override.exe
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\bin\Debug\PL12_2_Inheritance_override.pdb
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\obj\Debug\PL12_2_Inheritance_override.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\obj\Debug\PL12_2_Inheritance_override.exe
+C:\Users\big\Dropbox\Woks\Work\026_Inherritance_overline\obj\Debug\PL12_2_Inheritance_override.pdb

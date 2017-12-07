@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\bin\Debug\PL7_2_assignment_statement_by_using_conditional_expressions.exe.config
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\bin\Debug\PL7_2_assignment_statement_by_using_conditional_expressions.exe
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\bin\Debug\PL7_2_assignment_statement_by_using_conditional_expressions.pdb
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\obj\Debug\PL7_2_assignment_statement_by_using_conditional_expressions.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\obj\Debug\PL7_2_assignment_statement_by_using_conditional_expressions.exe
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\obj\Debug\PL7_2_assignment_statement_by_using_conditional_expressions.pdb

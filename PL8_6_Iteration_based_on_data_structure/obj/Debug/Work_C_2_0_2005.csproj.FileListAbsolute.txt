@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005\bin\Debug\Work_C_2_0_2005.exe.config
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005\bin\Debug\Work_C_2_0_2005.exe
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005\bin\Debug\Work_C_2_0_2005.pdb
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005\obj\Debug\Work_C_2_0_2005.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005\obj\Debug\Work_C_2_0_2005.exe
+C:\Users\big\Dropbox\Woks\Work\Work_C_2_0_2005\obj\Debug\Work_C_2_0_2005.pdb

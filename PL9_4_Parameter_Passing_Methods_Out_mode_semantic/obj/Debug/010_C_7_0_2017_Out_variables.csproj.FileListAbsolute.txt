@@ -1,0 +1,7 @@
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\bin\Debug\010_C_7_0_2017_Out_variables.exe.config
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\bin\Debug\010_C_7_0_2017_Out_variables.exe
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\bin\Debug\010_C_7_0_2017_Out_variables.pdb
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\obj\Debug\010_C_7_0_2017_Out_variables.csprojResolveAssemblyReference.cache
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\obj\Debug\010_C_7_0_2017_Out_variables.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\obj\Debug\010_C_7_0_2017_Out_variables.exe
+C:\Users\big\Dropbox\Woks\Work\010_C_7_0_2017_Out_variables\obj\Debug\010_C_7_0_2017_Out_variables.pdb

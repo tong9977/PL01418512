@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\bin\Debug\PL8_1_Counter_Controlled_loops.exe.config
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\bin\Debug\PL8_1_Counter_Controlled_loops.exe
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\bin\Debug\PL8_1_Counter_Controlled_loops.pdb
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\obj\Debug\PL8_1_Counter_Controlled_loops.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\obj\Debug\PL8_1_Counter_Controlled_loops.exe
+C:\Users\big\Dropbox\Woks\Work\019_for_loop\obj\Debug\PL8_1_Counter_Controlled_loops.pdb

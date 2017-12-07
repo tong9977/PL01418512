@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\bin\Debug\024_ternary_operator.exe.config
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\bin\Debug\024_ternary_operator.exe
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\bin\Debug\024_ternary_operator.pdb
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\obj\Debug\024_ternary_operator.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\obj\Debug\024_ternary_operator.exe
+C:\Users\big\Dropbox\Woks\Work\024_ternary_operator\obj\Debug\024_ternary_operator.pdb

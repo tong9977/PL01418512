@@ -1,0 +1,7 @@
+C:\Users\big\Dropbox\Woks\Work\015_cast\bin\Debug\015_cast.exe.config
+C:\Users\big\Dropbox\Woks\Work\015_cast\bin\Debug\015_cast.exe
+C:\Users\big\Dropbox\Woks\Work\015_cast\bin\Debug\015_cast.pdb
+C:\Users\big\Dropbox\Woks\Work\015_cast\obj\Debug\015_cast.csprojResolveAssemblyReference.cache
+C:\Users\big\Dropbox\Woks\Work\015_cast\obj\Debug\015_cast.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\015_cast\obj\Debug\015_cast.exe
+C:\Users\big\Dropbox\Woks\Work\015_cast\obj\Debug\015_cast.pdb

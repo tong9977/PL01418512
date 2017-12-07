@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\021_do_while\bin\Debug\021_do_while.exe.config
+C:\Users\big\Dropbox\Woks\Work\021_do_while\bin\Debug\021_do_while.exe
+C:\Users\big\Dropbox\Woks\Work\021_do_while\bin\Debug\021_do_while.pdb
+C:\Users\big\Dropbox\Woks\Work\021_do_while\obj\Debug\021_do_while.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\021_do_while\obj\Debug\021_do_while.exe
+C:\Users\big\Dropbox\Woks\Work\021_do_while\obj\Debug\021_do_while.pdb

@@ -1,0 +1,7 @@
+C:\Users\big\Dropbox\Woks\Work\014_overload operator\bin\Debug\PL7_1_overloaded_operator.exe.config
+C:\Users\big\Dropbox\Woks\Work\014_overload operator\bin\Debug\PL7_1_overloaded_operator.exe
+C:\Users\big\Dropbox\Woks\Work\014_overload operator\bin\Debug\PL7_1_overloaded_operator.pdb
+C:\Users\big\Dropbox\Woks\Work\014_overload operator\obj\Debug\PL7_1_overloaded_operator.csprojResolveAssemblyReference.cache
+C:\Users\big\Dropbox\Woks\Work\014_overload operator\obj\Debug\PL7_1_overloaded_operator.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\014_overload operator\obj\Debug\PL7_1_overloaded_operator.exe
+C:\Users\big\Dropbox\Woks\Work\014_overload operator\obj\Debug\PL7_1_overloaded_operator.pdb

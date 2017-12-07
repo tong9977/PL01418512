@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\bin\Debug\022_Infinit_loop_by_for.exe.config
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\bin\Debug\022_Infinit_loop_by_for.exe
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\bin\Debug\022_Infinit_loop_by_for.pdb
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\obj\Debug\022_Infinit_loop_by_for.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\obj\Debug\022_Infinit_loop_by_for.exe
+C:\Users\big\Dropbox\Woks\Work\022_Infinit_loop_by_for\obj\Debug\022_Infinit_loop_by_for.pdb

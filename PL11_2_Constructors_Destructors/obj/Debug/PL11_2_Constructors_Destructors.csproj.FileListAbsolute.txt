@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\29_Constructors_and_destructors\bin\Debug\PL11_2_Constructors_Destructors.exe.config
+C:\Users\big\Dropbox\Woks\Work\29_Constructors_and_destructors\bin\Debug\PL11_2_Constructors_Destructors.exe
+C:\Users\big\Dropbox\Woks\Work\29_Constructors_and_destructors\bin\Debug\PL11_2_Constructors_Destructors.pdb
+C:\Users\big\Dropbox\Woks\Work\29_Constructors_and_destructors\obj\Debug\PL11_2_Constructors_Destructors.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\29_Constructors_and_destructors\obj\Debug\PL11_2_Constructors_Destructors.exe
+C:\Users\big\Dropbox\Woks\Work\29_Constructors_and_destructors\obj\Debug\PL11_2_Constructors_Destructors.pdb

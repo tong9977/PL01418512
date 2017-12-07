@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\025_Rnumeration_type\bin\Debug\PL6_1_Enumeration_Type.exe.config
+C:\Users\big\Dropbox\Woks\Work\025_Rnumeration_type\bin\Debug\PL6_1_Enumeration_Type.exe
+C:\Users\big\Dropbox\Woks\Work\025_Rnumeration_type\bin\Debug\PL6_1_Enumeration_Type.pdb
+C:\Users\big\Dropbox\Woks\Work\025_Rnumeration_type\obj\Debug\PL6_1_Enumeration_Type.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\025_Rnumeration_type\obj\Debug\PL6_1_Enumeration_Type.exe
+C:\Users\big\Dropbox\Woks\Work\025_Rnumeration_type\obj\Debug\PL6_1_Enumeration_Type.pdb

@@ -1,0 +1,7 @@
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\bin\Debug\PL12_4_objectslicing.exe.config
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\bin\Debug\PL12_4_objectslicing.exe
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\bin\Debug\PL12_4_objectslicing.pdb
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\obj\Debug\PL12_4_objectslicing.csprojResolveAssemblyReference.cache
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\obj\Debug\PL12_4_objectslicing.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\obj\Debug\PL12_4_objectslicing.exe
+C:\Users\big\Dropbox\Woks\Work\017_object_slicing\obj\Debug\PL12_4_objectslicing.pdb

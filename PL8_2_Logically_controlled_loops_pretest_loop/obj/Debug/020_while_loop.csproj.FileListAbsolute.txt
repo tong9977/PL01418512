@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\bin\Debug\020_while_loop.exe.config
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\bin\Debug\020_while_loop.exe
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\bin\Debug\020_while_loop.pdb
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\obj\Debug\020_while_loop.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\obj\Debug\020_while_loop.exe
+C:\Users\big\Dropbox\Woks\Work\020_while_loop\obj\Debug\020_while_loop.pdb

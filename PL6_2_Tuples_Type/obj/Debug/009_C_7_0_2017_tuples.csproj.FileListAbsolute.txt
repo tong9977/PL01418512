@@ -1,0 +1,6 @@
+C:\Users\big\Dropbox\Woks\Work\009_C_7_0_2017_tuples\obj\Debug\009_C_7_0_2017_tuples.csproj.CoreCompileInputs.cache
+C:\Users\big\Dropbox\Woks\Work\009_C_7_0_2017_tuples\bin\Debug\009_C_7_0_2017_tuples.exe.config
+C:\Users\big\Dropbox\Woks\Work\009_C_7_0_2017_tuples\bin\Debug\009_C_7_0_2017_tuples.exe
+C:\Users\big\Dropbox\Woks\Work\009_C_7_0_2017_tuples\bin\Debug\009_C_7_0_2017_tuples.pdb
+C:\Users\big\Dropbox\Woks\Work\009_C_7_0_2017_tuples\obj\Debug\009_C_7_0_2017_tuples.exe
+C:\Users\big\Dropbox\Woks\Work\009_C_7_0_2017_tuples\obj\Debug\009_C_7_0_2017_tuples.pdb
